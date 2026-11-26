@@ -25,6 +25,8 @@ uv run python scripts/02_verify_images.py md5  # 對照官方 MD5
 uv run python scripts/02_verify_images.py extract
 uv run python scripts/02_verify_images.py scan # 逐張開啟並找重複影像
 uv run python scripts/03_split.py              # 切分預覽
+uv run python scripts/04_build_cache.py        # 建立 512 px 快取
+uv run python scripts/05_m1_summary.py         # M1 總結報告
 uv run pytest
 ```
 
