@@ -1,0 +1,61 @@
+distance,pixel_corr,kind,image_a,split_a,patient_a,labels_a,image_b,split_b,patient_b,labels_b,same_labels
+4,0.9995,test 內、同一病人,00011402_004.png,test,11402,No Finding,00011402_005.png,test,11402,No Finding,True
+14,0.9904,test 內、不同病人,00029476_001.png,test,29476,No Finding,00029707_000.png,test,29707,No Finding,True
+16,0.9862,train_val 內、同一病人,00019528_009.png,train_val,19528,No Finding,00019528_012.png,train_val,19528,No Finding,True
+18,0.9851,test 內、不同病人,00029476_002.png,test,29476,No Finding,00029747_002.png,test,29747,Effusion|Infiltration|Pneumonia,False
+20,0.9478,train_val 內、同一病人,00018312_007.png,train_val,18312,No Finding,00018312_008.png,train_val,18312,No Finding,True
+20,0.9861,跨 train_val 與 test,00027864_004.png,train_val,27864,No Finding,00027927_032.png,test,27927,No Finding,True
+22,0.9775,train_val 內、同一病人,00018006_022.png,train_val,18006,Effusion|Infiltration,00018006_023.png,train_val,18006,Effusion|Mass,False
+24,0.9417,train_val 內、同一病人,00008027_000.png,train_val,8027,Infiltration,00008027_003.png,train_val,8027,Nodule,False
+24,0.8850,train_val 內、同一病人,00012874_021.png,train_val,12874,No Finding,00012874_029.png,train_val,12874,Infiltration,False
+24,0.9879,test 內、同一病人,00019373_003.png,test,19373,Emphysema|Mass|Pneumothorax,00019373_004.png,test,19373,Mass|Nodule|Pneumothorax,False
+24,0.9755,train_val 內、同一病人,00025110_000.png,train_val,25110,Infiltration,00025110_003.png,train_val,25110,No Finding,False
+24,0.9491,train_val 內、同一病人,00026742_000.png,train_val,26742,Edema|Pleural_Thickening,00026742_001.png,train_val,26742,Edema,False
+26,0.9757,test 內、同一病人,00011460_026.png,test,11460,Pneumothorax,00011460_028.png,test,11460,Pneumothorax,True
+26,0.9788,train_val 內、同一病人,00013620_013.png,train_val,13620,Atelectasis,00013620_018.png,train_val,13620,Atelectasis,True
+26,0.9801,train_val 內、同一病人,00017541_006.png,train_val,17541,Atelectasis,00017541_007.png,train_val,17541,Atelectasis|Effusion|Infiltration|Nodule,False
+26,0.9837,train_val 內、同一病人,00018186_008.png,train_val,18186,No Finding,00018186_009.png,train_val,18186,No Finding,True
+26,0.9740,test 內、同一病人,00020318_025.png,test,20318,No Finding,00020318_026.png,test,20318,No Finding,True
+26,0.9793,train_val 內、同一病人,00025110_002.png,train_val,25110,No Finding,00025110_004.png,train_val,25110,Infiltration,False
+26,0.9676,test 內、同一病人,00028861_008.png,test,28861,Pneumothorax,00028861_010.png,test,28861,Pneumothorax,True
+28,0.9729,train_val 內、同一病人,00005274_005.png,train_val,5274,No Finding,00005274_006.png,train_val,5274,No Finding,True
+28,0.9440,train_val 內、同一病人,00006647_001.png,train_val,6647,Nodule,00006647_002.png,train_val,6647,No Finding,False
+28,0.9591,train_val 內、同一病人,00006985_006.png,train_val,6985,No Finding,00006985_010.png,train_val,6985,No Finding,True
+28,0.9250,train_val 內、同一病人,00007450_004.png,train_val,7450,No Finding,00007450_005.png,train_val,7450,Atelectasis,False
+28,0.9560,test 內、同一病人,00009349_019.png,test,9349,Atelectasis|Consolidation|Infiltration|Pneumothorax,00009349_020.png,test,9349,Atelectasis|Consolidation|Pneumothorax,False
+28,0.9807,test 內、同一病人,00012364_020.png,test,12364,No Finding,00012364_023.png,test,12364,No Finding,True
+28,0.9818,test 內、同一病人,00013670_002.png,test,13670,No Finding,00013670_006.png,test,13670,Edema|Infiltration,False
+28,0.9712,train_val 內、同一病人,00014546_005.png,train_val,14546,Atelectasis|Emphysema|Infiltration,00014546_010.png,train_val,14546,No Finding,False
+28,0.9881,test 內、同一病人,00014996_006.png,test,14996,No Finding,00014996_009.png,test,14996,No Finding,True
+28,0.9661,train_val 內、同一病人,00018043_004.png,train_val,18043,No Finding,00018043_005.png,train_val,18043,No Finding,True
+28,0.9708,test 內、同一病人,00018496_001.png,test,18496,Effusion|Pneumothorax,00018496_002.png,test,18496,Pneumothorax,False
+28,0.9623,test 內、同一病人,00021024_011.png,test,21024,No Finding,00021024_012.png,test,21024,Fibrosis,False
+28,0.9785,test 內、同一病人,00021024_019.png,test,21024,Effusion|Nodule,00021024_020.png,test,21024,No Finding,False
+28,0.9745,train_val 內、同一病人,00022301_008.png,train_val,22301,Infiltration,00022301_011.png,train_val,22301,Infiltration,True
+28,0.9650,train_val 內、同一病人,00022892_001.png,train_val,22892,No Finding,00022892_002.png,train_val,22892,No Finding,True
+28,0.9778,test 內、同一病人,00023065_024.png,test,23065,Effusion,00023065_029.png,test,23065,Pneumothorax,False
+28,0.9577,test 內、同一病人,00023075_015.png,test,23075,Emphysema|Infiltration,00023075_016.png,test,23075,Infiltration,False
+28,0.9788,test 內、同一病人,00028876_026.png,test,28876,Mass|Pneumothorax,00028876_028.png,test,28876,Pneumothorax,False
+28,0.9820,train_val 內、同一病人,00028897_015.png,train_val,28897,Effusion,00028897_018.png,train_val,28897,Effusion|Pleural_Thickening,False
+28,0.9682,test 內、同一病人,00030637_020.png,test,30637,No Finding,00030637_021.png,test,30637,No Finding,True
+30,0.9705,test 內、同一病人,00002350_002.png,test,2350,No Finding,00002350_003.png,test,2350,Atelectasis,False
+30,0.9690,train_val 內、同一病人,00002635_001.png,train_val,2635,Infiltration,00002635_002.png,train_val,2635,No Finding,False
+30,0.9207,train_val 內、不同病人,00002876_000.png,train_val,2876,No Finding,00023467_000.png,train_val,23467,No Finding,True
+30,0.9445,train_val 內、同一病人,00003585_000.png,train_val,3585,Atelectasis|Nodule|Pneumonia,00003585_001.png,train_val,3585,No Finding,False
+30,0.9771,train_val 內、同一病人,00007526_006.png,train_val,7526,No Finding,00007526_011.png,train_val,7526,No Finding,True
+30,0.9771,train_val 內、同一病人,00009867_004.png,train_val,9867,No Finding,00009867_008.png,train_val,9867,No Finding,True
+30,0.9087,train_val 內、同一病人,00009962_000.png,train_val,9962,No Finding,00009962_002.png,train_val,9962,No Finding,True
+30,0.9622,train_val 內、同一病人,00012874_019.png,train_val,12874,No Finding,00012874_022.png,train_val,12874,No Finding,True
+30,0.9866,test 內、同一病人,00015794_000.png,test,15794,Cardiomegaly|Nodule,00015794_001.png,test,15794,Infiltration|Nodule,False
+30,0.9671,train_val 內、同一病人,00016052_001.png,train_val,16052,No Finding,00016052_003.png,train_val,16052,No Finding,True
+30,0.9689,test 內、同一病人,00016971_002.png,test,16971,Mass,00016971_004.png,test,16971,Mass,True
+30,0.9583,train_val 內、同一病人,00018037_012.png,train_val,18037,No Finding,00018037_014.png,train_val,18037,No Finding,True
+30,0.9456,train_val 內、同一病人,00025181_004.png,train_val,25181,No Finding,00025181_007.png,train_val,25181,Nodule,False
+30,0.9013,train_val 內、同一病人,00025192_002.png,train_val,25192,Infiltration,00025192_003.png,train_val,25192,Infiltration,True
+30,0.9391,train_val 內、同一病人,00025192_003.png,train_val,25192,Infiltration,00025192_005.png,train_val,25192,No Finding,False
+30,0.9729,test 內、同一病人,00026412_046.png,test,26412,Consolidation|Emphysema|Pneumothorax,00026412_048.png,test,26412,Consolidation|Emphysema,False
+30,0.9674,train_val 內、同一病人,00026793_005.png,train_val,26793,No Finding,00026793_008.png,train_val,26793,Pneumothorax,False
+30,0.9620,test 內、同一病人,00027542_002.png,test,27542,Pneumothorax,00027542_007.png,test,27542,Effusion|Pneumothorax,False
+30,0.9780,test 內、同一病人,00028876_060.png,test,28876,Mass|Nodule,00028876_061.png,test,28876,Fibrosis|Mass|Nodule,False
+30,0.9772,test 內、同一病人,00029259_009.png,test,29259,Infiltration|Pneumothorax,00029259_012.png,test,29259,No Finding,False
+30,0.9680,train_val 內、同一病人,00029900_002.png,train_val,29900,No Finding,00029900_003.png,train_val,29900,Infiltration,False
