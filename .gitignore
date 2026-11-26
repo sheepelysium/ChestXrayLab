@@ -1,0 +1,27 @@
+# 資料、快取、權重一律不進版控
+data/raw/
+data/cache/
+data/external/
+checkpoints/
+*.tar.gz
+*.zip
+*.pt
+*.pth
+*.safetensors
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+*.egg-info/
+
+# 機密與本機設定
+.env
+.env.*
+.claude/settings.local.json
+
+# 編輯器
+.vscode/
+.idea/
